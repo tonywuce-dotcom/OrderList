@@ -1,0 +1,6 @@
+{
+  "name": "報價單管理系統",
+  "description": "專業簡潔的前端報價單管理系統，涵蓋客戶管理、廠商管理、產品管理與多項目報價單動態計算及完整前端驗證。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
